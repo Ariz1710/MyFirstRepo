@@ -1,1 +1,2 @@
 this is my first text in dev branch.
+the bug is fixed and tested in local.
